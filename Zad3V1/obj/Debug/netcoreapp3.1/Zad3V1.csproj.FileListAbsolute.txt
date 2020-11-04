@@ -1,0 +1,16 @@
+F:\PULPIR\Grafy\Lab3\Zad3V1\Zad3V1\bin\Debug\netcoreapp3.1\Zad3V1.exe
+F:\PULPIR\Grafy\Lab3\Zad3V1\Zad3V1\bin\Debug\netcoreapp3.1\Zad3V1.deps.json
+F:\PULPIR\Grafy\Lab3\Zad3V1\Zad3V1\bin\Debug\netcoreapp3.1\Zad3V1.runtimeconfig.json
+F:\PULPIR\Grafy\Lab3\Zad3V1\Zad3V1\bin\Debug\netcoreapp3.1\Zad3V1.runtimeconfig.dev.json
+F:\PULPIR\Grafy\Lab3\Zad3V1\Zad3V1\bin\Debug\netcoreapp3.1\Zad3V1.dll
+F:\PULPIR\Grafy\Lab3\Zad3V1\Zad3V1\bin\Debug\netcoreapp3.1\Zad3V1.pdb
+F:\PULPIR\Grafy\Lab3\Zad3V1\Zad3V1\obj\Debug\netcoreapp3.1\Zad3V1.csprojAssemblyReference.cache
+F:\PULPIR\Grafy\Lab3\Zad3V1\Zad3V1\obj\Debug\netcoreapp3.1\Zad3V1.AssemblyInfoInputs.cache
+F:\PULPIR\Grafy\Lab3\Zad3V1\Zad3V1\obj\Debug\netcoreapp3.1\Zad3V1.AssemblyInfo.cs
+F:\PULPIR\Grafy\Lab3\Zad3V1\Zad3V1\obj\Debug\netcoreapp3.1\Zad3V1.csproj.CoreCompileInputs.cache
+F:\PULPIR\Grafy\Lab3\Zad3V1\Zad3V1\obj\Debug\netcoreapp3.1\Zad3V1.dll
+F:\PULPIR\Grafy\Lab3\Zad3V1\Zad3V1\obj\Debug\netcoreapp3.1\Zad3V1.pdb
+F:\PULPIR\Grafy\Lab3\Zad3V1\Zad3V1\obj\Debug\netcoreapp3.1\Zad3V1.genruntimeconfig.cache
+F:\PULPIR\Grafy\Lab3\Zad3V1\Zad3V1\bin\Debug\netcoreapp3.1\Parser.dll
+F:\PULPIR\Grafy\Lab3\Zad3V1\Zad3V1\bin\Debug\netcoreapp3.1\Parser.pdb
+F:\PULPIR\Grafy\Lab3\Zad3V1\Zad3V1\obj\Debug\netcoreapp3.1\Zad3V1.csproj.CopyComplete

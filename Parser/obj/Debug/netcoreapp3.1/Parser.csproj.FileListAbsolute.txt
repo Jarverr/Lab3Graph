@@ -1,0 +1,9 @@
+F:\PULPIR\Grafy\Lab3\Zad3V1\Parser\bin\Debug\netcoreapp3.1\Parser.deps.json
+F:\PULPIR\Grafy\Lab3\Zad3V1\Parser\bin\Debug\netcoreapp3.1\Parser.dll
+F:\PULPIR\Grafy\Lab3\Zad3V1\Parser\bin\Debug\netcoreapp3.1\Parser.pdb
+F:\PULPIR\Grafy\Lab3\Zad3V1\Parser\obj\Debug\netcoreapp3.1\Parser.csprojAssemblyReference.cache
+F:\PULPIR\Grafy\Lab3\Zad3V1\Parser\obj\Debug\netcoreapp3.1\Parser.AssemblyInfoInputs.cache
+F:\PULPIR\Grafy\Lab3\Zad3V1\Parser\obj\Debug\netcoreapp3.1\Parser.AssemblyInfo.cs
+F:\PULPIR\Grafy\Lab3\Zad3V1\Parser\obj\Debug\netcoreapp3.1\Parser.csproj.CoreCompileInputs.cache
+F:\PULPIR\Grafy\Lab3\Zad3V1\Parser\obj\Debug\netcoreapp3.1\Parser.dll
+F:\PULPIR\Grafy\Lab3\Zad3V1\Parser\obj\Debug\netcoreapp3.1\Parser.pdb
